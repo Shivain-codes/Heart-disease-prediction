@@ -8,14 +8,6 @@ TabM Heart Disease Prediction (Kaggle Playground S6E2)
 
 </div>
 
-## 🎯 **Competition Results**
-| Model | CV AUC | Public LB | vs CatBoost |
-|-------|--------|-----------|-------------|
-| **CatBoost Baseline** | 0.9535 | 0.9532 | - |
-| **TabM Transformer** | **0.9548** | **0.9545** | **+0.0013** 🥇 |
-
-## 🔥 **3 Key Innovations**
-
 ### 1. **Original UCI Dataset Statistics** ⭐
 python
 tabm-mini-normal | k=24 experts | 150 epochs | Categorical embeddings
