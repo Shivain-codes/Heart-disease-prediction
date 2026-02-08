@@ -1,5 +1,5 @@
 TabM Heart Disease Prediction (Kaggle Playground S6E2)
-**CV AUC: 0.9548** | **Top 1%** | **Beats CatBoost by +0.0013**
+**CV AUC: 0.95381** 
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
